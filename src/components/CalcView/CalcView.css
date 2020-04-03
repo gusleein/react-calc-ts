@@ -1,3 +1,26 @@
-.CalcView_Table {
-  width: 400px;
+.CalcView_table {
+  width: 300px;
+}
+
+.CalcView_table .CalcView_input {
+  width: 276px;
+  margin-left: 2px;
+  height: 60px;
+  font-size: 30px;
+}
+
+.CalcView_table .CalcView_button {
+  border: none;
+  font-size: 20px;
+  width: 60px;
+  height: 60px;
+}
+
+.CalcView_table .CalcView_button__zero {
+  width: 138px;
+}
+
+.CalcView_table .CalcView_button__orange {
+  background: #ff5400;
+  color: #fff;
 }
